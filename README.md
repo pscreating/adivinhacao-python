@@ -1,11 +1,26 @@
-🎯 Jogo de Adivinhação (Python)
+Jogo de Adivinhação em Python 🎯
 
-Pequeno projeto em Python onde o computador escolhe um número aleatório de 1 a 10, e o usuário tenta adivinhar.  
-O programa fornece dicas e conta quantas tentativas foram feitas até o acerto.
+Este é um projeto simples de jogo de adivinhação desenvolvido em Python, como parte de uma atividade acadêmica. O objetivo é aplicar conceitos básicos de programação, como estruturas de controle, entrada de dados, loops e lógica condicional.
 
-🛠 Tecnologias usadas:
-- Python 3
-- Biblioteca random
+📌 Objetivo do Jogo:
 
-💡 Objetivo:  
-Praticar estruturas de repetição, condicionais e interação com o usuário.
+O jogador deve adivinhar um número aleatório gerado pelo programa, dentro de um intervalo definido. A cada tentativa, o programa informa se o número digitado é maior ou menor que o número correto, até que o jogador acerte.
+
+🧠 Conceitos aplicados:
+
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Estruturas de repetição (`while`)
+- Importação de módulos (`import random`)
+- Manipulação de entradas com `input()`
+- Conversão de tipos (`int()`)
+
+✍ Autora:
+
+- Ana Paula Santos
+- Curso: Análise e Desenvolvimento de Sistemas
+- Faculdade: Cruzeiro do Sul Virtual
+
+- ✅ Status do Projeto
+
+✔ Concluído e funcional
+
